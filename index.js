@@ -15,3 +15,11 @@ console.log(10-2);
 console.log(2*2);
 console.log(6/3);
 console.log(15%2);
+
+// LEVEL 2
+
+console.log("whats"+"up");
+console.log(true-false);
+console.log(222*287498274893);
+console.log(1000000000/5);
+console.log(999%2);
